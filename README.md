@@ -12,12 +12,12 @@ A **Memory Game**, play by matching **letters**.
 1. Clone this repository:
    
    ```bash
-   git clone https://github.com/your-username/memorygame.git
+   git clone https://github.com/your-username/memory-game.git
 
 2. Navigate to the project directory:
     
    ```bash
-   cd memorygame
+   cd memory-game
 
 3. Install the project dependencies:
     
