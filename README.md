@@ -14,6 +14,6 @@ A **Memory Game**, play by matching **letters**.
 npm install
 
 
-2️⃣ Start the Project:
+### 2️⃣ Start the Project:s:
 ```bash
 npm start
