@@ -9,11 +9,24 @@ A **Memory Game**, play by matching **letters**.
 
 ## 🚀 How to Run the Project?
 
-### 1️⃣ Install Dependencies:
-```bash
-npm install
+1. Clone this repository:
+   
+   ```bash
+   git clone https://github.com/your-username/memorygame.git
 
+2. Navigate to the project directory:
+    
+   ```bash
+   cd memorygame
 
-### 2️⃣ Start the Project:s:
-```bash
-npm start
+3. Install the project dependencies:
+    
+   ```bash
+   npm install
+
+4. Start the development server:
+    
+   ```bash
+   npm start
+
+5. The app will be available in your browser, typically at http://localhost:3000.
