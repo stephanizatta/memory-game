@@ -12,3 +12,8 @@ A **Memory Game**, play by matching **letters**.
 ### 1️⃣ Install Dependencies:
 ```bash
 npm install
+
+
+2️⃣ Start the Project:
+```bash
+npm start
